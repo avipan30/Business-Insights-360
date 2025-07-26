@@ -1,101 +1,80 @@
-# Business-Insights-360
-📊 Business Insights 360 – Power BI Project
-📝 Project Summary
-AtliQ Hardware, a fast-growing global computer and accessories brand, realized the need to implement data analytics after facing losses due to intuition-based decisions. With no existing BI system in place and competitors leveraging data-driven strategies, the company adopted Power BI to gain critical insights across Finance, Sales, and Marketing.
+# 📊 Business Insights 360 – Power BI Project
 
-This project was developed as part of the Codebasics Power BI Course, using real-world business problems to create a multi-view dashboard for cross-departmental decision-making.
+## 📝 Project Summary
 
-🛠️ Tools & Technologies Used
-🟨 Power BI Desktop
+AtliQ Hardware, a fast-growing global computer and accessories brand, realized the need to implement data analytics after facing losses due to intuition-based decisions. With no existing BI system in place and competitors leveraging data-driven strategies, the company adopted Power BI to gain critical insights across **Finance**, **Sales**, and **Marketing**.
 
-🟦 SQL
+This project was developed as part of the [Codebasics Power BI Course](#), using real-world business problems to create a multi-view dashboard for cross-departmental decision-making.
 
-📊 Excel
+---
 
-💡 DAX Language
+## 🛠️ Tools & Technologies Used
 
-⚙️ DAX Studio (for performance optimization)
+- 🟨 **Power BI Desktop**
+- 🟦 **SQL**
+- 📊 **Excel**
+- 💡 **DAX Language**
+- ⚙️ **DAX Studio** (for performance optimization)
 
-📈 Power BI Skills & Concepts Learned
-❓ Asking the right questions before starting a BI project
+---
 
-🧱 Data modeling & relationship design
+## 📈 Power BI Skills & Concepts Learned
 
-🧮 Creating calculated columns & DAX measures
+- ❓ Asking the right questions before starting a BI project  
+- 🧱 Data modeling & relationship design  
+- 🧮 Creating calculated columns & DAX measures  
+- 📅 Building date tables using M language  
+- 🧮 Preventing division errors with `DIVIDE()`  
+- 🔘 Page navigation using buttons  
+- 📍 KPI indicators integration  
+- ✅ Data validation techniques  
+- ☁️ **Power BI Service** – publishing, sharing, and managing reports  
 
-📅 Building date tables using M language
+---
 
-🧮 Preventing division errors with DIVIDE()
+## 🌐 Domain Knowledge Gained
 
-🔘 Page navigation using buttons
+- 💰 **Finance**: Gross margin, net sales, profit, COGS  
+- 📦 **Sales**: Performance by channels – Retailers, Direct, Distributors  
+- 📣 **Marketing**: Regional & campaign performance insights  
 
-📍 KPI indicators integration
+---
 
-✅ Data validation techniques
+## 🧠 Core DAX Functions Used
 
-☁️ Power BI Service – publishing, sharing, and managing reports
+- `CALCULATE()`  
+- `DIVIDE()`  
+- `FILTER()`  
+- `SWITCH()`
 
-🌐 Domain Knowledge Gained
-💰 Finance: Gross margin, net sales, profit, COGS
+---
 
-📦 Sales: Performance by channels – Retailers, Direct, Distributors
+## 📚 Key Business Concepts Covered
 
-📣 Marketing: Regional & campaign performance insights
+- 💵 **Gross Price**, **Net Invoice Sale**  
+- 📉 **Pre- & Post-Invoice Deductions**  
+- 💹 **Gross Margin**, **Net Profit**  
+- 🧾 **COGS** – Cost of Goods Sold  
+- 📆 **YTD** (Year-to-Date), **YTG** (Year-to-Go)  
+- 🔁 **Sales Channels** – Direct, Retailers, Distributors  
+- 👥 **Consumer Segmentation**
 
-🧠 Core DAX Functions Used
-CALCULATE()
+---
 
-DIVIDE()
+## 🏢 About the Company
 
-FILTER()
+**AtliQ Hardware** is a multinational company that sells computers and accessories through **Direct Sales**, **Retailers**, and **Distributors**. With growing competition and a need for smarter decisions, the company began building an analytics team to transition toward a data-driven culture using Power BI.
 
-SWITCH()
+---
 
-📚 Key Business Concepts Covered
-💵 Gross Price, Net Invoice Sale
+## 🧭 Dashboard Navigation Structure
 
-📉 Pre- & Post-Invoice Deductions
+### 🏠 **Home View** – A centralized landing page with buttons to navigate to specific dashboards:
 
-💹 Gross Margin, Net Profit
+- 💸 **Finance View**
+- 📊 **Sales View**
+- 📣 **Marketing View**
 
-🧾 COGS – Cost of Goods Sold
+Each section is tailored to provide actionable insights for stakeholders in that department.
 
-📆 YTD (Year-to-Date), YTG (Year-to-Go)
-
-🔁 Sales Channels – Direct, Retailers, Distributors
-
-👥 Consumer Segmentation
-
-🏢 About the Company
-AtliQ Hardware is a multinational company that sells computers and accessories through Direct Sales, Retailers, and Distributors. With growing competition and a need for smarter decisions, the company began building an analytics team to transition toward a data-driven culture using Power BI.
-
-🧭 Dashboard Navigation Structure
-🏠 Home View – A centralized page with buttons for navigating to specific dashboards:
-
-💸 Finance View
-
-📊 Sales View
-
-📣 Marketing View
-
-Each section is tailored to provide actionable insights for stakeholders in that domain.
-
-
-
-👥 Consumer Segmentation
-
-🏢 About the Company
-AtliQ Hardware is a multinational company that sells computers and accessories through Direct Sales, Retailers, and Distributors. With growing competition and a need for smarter decisions, the company began building an analytics team to transition toward a data-driven culture using Power BI.
-
-🧭 Dashboard Navigation Structure
-🏠 Home View – A centralized page with buttons for navigating to specific dashboards:
-
-💸 Finance View
-
-📊 Sales View
-
-📣 Marketing View
-
-Each section is tailored to provide actionable insights for stakeholders in that domain.
-
-
+---
