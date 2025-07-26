@@ -33,7 +33,7 @@ This project was developed as part of the Codebasics Power BI Course, using real
 
 ✅ Data validation techniques
 
-☁️ Publishing & managing reports with Power BI Service
+☁️ Power BI Service – publishing, sharing, and managing reports
 
 🌐 Domain Knowledge Gained
 💰 Finance: Gross margin, net sales, profit, COGS
@@ -63,6 +63,24 @@ SWITCH()
 📆 YTD (Year-to-Date), YTG (Year-to-Go)
 
 🔁 Sales Channels – Direct, Retailers, Distributors
+
+👥 Consumer Segmentation
+
+🏢 About the Company
+AtliQ Hardware is a multinational company that sells computers and accessories through Direct Sales, Retailers, and Distributors. With growing competition and a need for smarter decisions, the company began building an analytics team to transition toward a data-driven culture using Power BI.
+
+🧭 Dashboard Navigation Structure
+🏠 Home View – A centralized page with buttons for navigating to specific dashboards:
+
+💸 Finance View
+
+📊 Sales View
+
+📣 Marketing View
+
+Each section is tailored to provide actionable insights for stakeholders in that domain.
+
+
 
 👥 Consumer Segmentation
 
