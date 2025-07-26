@@ -1,49 +1,48 @@
 # Business-Insights-360
-Business Insights 360 – Power BI Project
-Project Summary:
+📊 Business Insights 360 – Power BI Project
+📝 Project Summary
+AtliQ Hardware, a fast-growing global computer and accessories brand, realized the need to implement data analytics after facing losses due to intuition-based decisions. With no existing BI system in place and competitors leveraging data-driven strategies, the company adopted Power BI to gain critical insights across Finance, Sales, and Marketing.
 
-AtliQ Hardware, a rapidly expanding global computer and accessories company, recognized the urgent need to adopt business intelligence tools to stay ahead of competitors. Following a failed store launch in the American market—driven by intuition and limited Excel-based analysis—the company decided to implement Power BI to enable data-driven decision-making across finance, sales, and marketing functions.
+This project was developed as part of the Codebasics Power BI Course, using real-world business problems to create a multi-view dashboard for cross-departmental decision-making.
 
-This project was developed as part of the Codebasics Power BI Course and showcases a comprehensive dashboard tailored to answer key business questions for multiple departments.
+🛠️ Tools & Technologies Used
+🟨 Power BI Desktop
 
-Tools & Technologies Used:
-Power BI Desktop
+🟦 SQL
 
-SQL
+📊 Excel
 
-Excel
+💡 DAX Language
 
-DAX Language
+⚙️ DAX Studio (for performance optimization)
 
-DAX Studio (for report performance optimization)
+📈 Power BI Skills & Concepts Learned
+❓ Asking the right questions before starting a BI project
 
-Power BI Skills & Concepts Learned:
-Asking the right business questions before starting a BI project
+🧱 Data modeling & relationship design
 
-Data modeling and establishing relationships
+🧮 Creating calculated columns & DAX measures
 
-Creating calculated columns and measures using DAX
+📅 Building date tables using M language
 
-Creating a date table using M language
+🧮 Preventing division errors with DIVIDE()
 
-Using DIVIDE() to handle division-by-zero errors
+🔘 Page navigation using buttons
 
-Interactive page navigation with buttons
+📍 KPI indicators integration
 
-Integrating KPIs and visual indicators
+✅ Data validation techniques
 
-Applying data validation techniques
+☁️ Publishing & managing reports with Power BI Service
 
-Publishing reports through Power BI Service
+🌐 Domain Knowledge Gained
+💰 Finance: Gross margin, net sales, profit, COGS
 
-Domain Knowledge Gained:
-Finance: Understanding gross margin, net sales, profit calculations, and COGS
+📦 Sales: Performance by channels – Retailers, Direct, Distributors
 
-Sales: Channel-wise performance tracking (Retailers, Direct, Distributors)
+📣 Marketing: Regional & campaign performance insights
 
-Marketing: Campaign and regional analysis
-
-Core DAX Functions Used:
+🧠 Core DAX Functions Used
 CALCULATE()
 
 DIVIDE()
@@ -52,35 +51,33 @@ FILTER()
 
 SWITCH()
 
-Key Business Concepts Covered:
-Gross Price
+📚 Key Business Concepts Covered
+💵 Gross Price, Net Invoice Sale
 
-Pre- and Post-Invoice Deductions
+📉 Pre- & Post-Invoice Deductions
 
-Net Invoice Sale
+💹 Gross Margin, Net Profit
 
-Gross Margin & Net Profit
+🧾 COGS – Cost of Goods Sold
 
-Cost of Goods Sold (COGS)
+📆 YTD (Year-to-Date), YTG (Year-to-Go)
 
-Year-to-Date (YTD) & Year-to-Go (YTG) metrics
+🔁 Sales Channels – Direct, Retailers, Distributors
 
-Sales channels: Direct, Retailers, Distributors
+👥 Consumer Segmentation
 
-Consumer segmentation
+🏢 About the Company
+AtliQ Hardware is a multinational company that sells computers and accessories through Direct Sales, Retailers, and Distributors. With growing competition and a need for smarter decisions, the company began building an analytics team to transition toward a data-driven culture using Power BI.
 
-About the Company:
-AtliQ Hardware is a global company specializing in computer hardware and accessories. With a presence across various international markets, they operate through Direct, Retailer, and Distributor channels. The company is now investing in building a data analytics team to drive informed business decisions using insights from Power BI dashboards.
+🧭 Dashboard Navigation Structure
+🏠 Home View – A centralized page with buttons for navigating to specific dashboards:
 
-Dashboard Navigation:
-Home View:
-Acts as a central hub with navigation buttons leading users to three focused analytical views:
+💸 Finance View
 
-Finance View
+📊 Sales View
 
-Sales View
+📣 Marketing View
 
-Marketing View
+Each section is tailored to provide actionable insights for stakeholders in that domain.
 
-Each view is designed to provide key insights relevant to decision-makers in that department.
 
