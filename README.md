@@ -4,9 +4,7 @@
 
 AtliQ Hardware, a fast-growing global computer and accessories brand, realized the need to implement data analytics after facing losses due to intuition-based decisions. With no existing BI system in place and competitors leveraging data-driven strategies, the company adopted Power BI to gain critical insights across **Finance**, **Sales**, and **Marketing**.
 
-This project was developed as part of the [Codebasics Power BI Course](#), using real-world business problems to create a multi-view dashboard for cross-departmental decision-making.
 
----
 
 ## 🛠️ Tools & Technologies Used
 
